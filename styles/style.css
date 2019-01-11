@@ -1,0 +1,79 @@
+.title {
+	display: inline-block;
+	width: 500px;
+}
+
+header{
+	background-color:#19A9E5;
+	color:#FFFFFF;
+	text-align: center;
+	margin: 0px;
+	padding: 20px;
+}
+
+.up{
+	background-color: #36C845;
+	text-align: center;
+	color: #FFF;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+p{
+	margin: 0px;
+	padding: 10px;
+}
+
+#name{
+	font-weight: bold;
+}
+
+#profesion{
+	font-weight: 200;
+}
+
+section div{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+
+h3{
+	font-size: 36px;
+	font-weight: 700;
+}
+
+dt{
+	font-size: 22px;
+	text-transform: uppercase;
+	margin-bottom: 12px;
+	margin-top: 36px;
+}
+
+.detail{
+	margin-top: 70px;
+}
+dl{
+	margin-left: 20px;
+}
+
+.info{
+	display: inline-block;
+}
+
+#educacion{
+	width: 68%;
+	margin-top: 0px;
+	vertical-align: top;
+}
+
+#imagen{
+	width: 30%;
+}
+
+
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 0px;
+}
